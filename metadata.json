@@ -1,0 +1,8 @@
+{
+  "name": "MecaPlan PRO - Sistema de Gestión de Talleres",
+  "description": "Una aplicación avanzada de marca blanca para la gestión de servicios mecánicos, generación de reportes técnicos y control de calidad con evidencia fotográfica y firmas digitales.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
